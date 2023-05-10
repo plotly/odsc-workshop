@@ -21,8 +21,8 @@ the following:
 On Windows:
 
 ```
-virtualenv venv 
-\venv\scripts\activate
+python -m venv myvenv
+\myvenv\Scripts\activate.bat
 ```
 
 On Linux:
