@@ -23,6 +23,8 @@ On Windows:
 ```
 python -m venv myvenv
 \myvenv\Scripts\activate.bat
+# OR
+\myvenv\Scripts\Activate.ps1
 ```
 
 On Linux:
